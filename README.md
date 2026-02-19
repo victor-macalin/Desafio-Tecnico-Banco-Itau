@@ -1,4 +1,4 @@
-# Desafio tecnico banco ITAU 🟠
+# Desafio técnico banco ITAU 🟠
 
 > Um teste técnico pedido em vaga real do Itaú.
 
